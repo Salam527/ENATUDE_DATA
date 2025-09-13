@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Notifications",
+    "subtitle": "Gérer vos notifications",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1827/1827351.png",
+    "badge": "NEW"
+  },
+  {
+    "title": "Messages", 
+    "subtitle": "3 nouveaux messages",
+    "icon": "https://cdn-icons-png.flaticon.com/512/542/542638.png",
+    "badge": "3"
+  },
+  {
+    "title": "Paramètres",
+    "subtitle": "Configurer l'application",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2040/2040504.png",
+    "badge": ""
+  },
+  {
+    "title": "Profil",
+    "subtitle": "Modifier votre profil",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png",
+    "badge": "!"
+  },
+  {
+    "title": "Aide",
+    "subtitle": "Obtenir de l'aide",
+    "icon": "https://cdn-icons-png.flaticon.com/512/906/906794.png",
+    "badge": ""
+  },
+  {
+    "title": "À propos",
+    "subtitle": "Version 1.0.0",
+    "icon": "https://cdn-icons-png.flaticon.com/512/545/545674.png",
+    "badge": ""
+  }
+]
