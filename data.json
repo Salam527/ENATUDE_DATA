@@ -1,38 +1,42 @@
 [
   {
-    "title": "Notifications",
-    "subtitle": "Gérer vos notifications",
-    "icon": "https://cdn-icons-png.flaticon.com/512/1827/1827351.png",
-    "badge": "NEW"
+    "title": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "imageUrl": "https://via.placeholder.com/300x450/0077be/ffffff?text=Shawshank",
+    "year": "1994",
+    "rate": 9.3,
+    "url": "https://www.imdb.com/title/tt0111161/"
   },
   {
-    "title": "Messages", 
-    "subtitle": "3 nouveaux messages",
-    "icon": "https://cdn-icons-png.flaticon.com/512/542/542638.png",
-    "badge": "3"
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "imageUrl": "https://via.placeholder.com/300x450/333333/ffffff?text=Godfather",
+    "year": "1972",
+    "rate": 9.2,
+    "url": "https://www.imdb.com/title/tt0068646/"
   },
   {
-    "title": "Paramètres",
-    "subtitle": "Configurer l'application",
-    "icon": "https://cdn-icons-png.flaticon.com/512/2040/2040504.png",
-    "badge": ""
+    "title": "The Dark Knight",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "imageUrl": "https://via.placeholder.com/300x450/000000/ffffff?text=Dark+Knight",
+    "year": "2008",
+    "rate": 9.0,
+    "url": "https://www.imdb.com/title/tt0468569/"
   },
   {
-    "title": "Profil",
-    "subtitle": "Modifier votre profil",
-    "icon": "https://cdn-icons-png.flaticon.com/512/1077/1077012.png",
-    "badge": "!"
+    "title": "Pulp Fiction",
+    "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "imageUrl": "https://via.placeholder.com/300x450/ff9900/000000?text=Pulp+Fiction",
+    "year": "1994",
+    "rate": 8.9,
+    "url": "https://www.imdb.com/title/tt0110912/"
   },
   {
-    "title": "Aides",
-    "subtitle": "Obtenir de l'aide",
-    "icon": "https://cdn-icons-png.flaticon.com/512/906/906794.png",
-    "badge": ""
-  },
-  {
-    "title": "À propos",
-    "subtitle": "Version 1.0.0",
-    "icon": "https://cdn-icons-png.flaticon.com/512/545/545674.png",
-    "badge": ""
+    "title": "Forrest Gump",
+    "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+    "imageUrl": "https://via.placeholder.com/300x450/006600/ffffff?text=Forrest+Gump",
+    "year": "1994",
+    "rate": 8.8,
+    "url": "https://www.imdb.com/title/tt0109830/"
   }
 ]
